@@ -1,16 +1,17 @@
-# yoga_session_app
+# Yoga Session App
+A Flutter-based guided yoga session app featuring synchronized audio narration, instructional text, and illustrative images.
 
-A new Flutter project.
+Designed for smooth, paced yoga practices with customizable loops, this app provides an immersive and interactive experience for users following a Yoga flow such as the Cat-Cow sequence.
 
-## Getting Started
+## Features
+🎵 Plays sequential yoga session segments with audio, text, and images in sync.
 
-This project is a starting point for a Flutter application.
+🔄 Supports multiple segments: intro, looped breath cycles, and outro.
 
-A few resources to get you started if this is your first Flutter project:
+🔁 Configurable loop counts for repeatable segments.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+⏯ Smooth playback with play/pause and seek controls.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🖼 Dynamic display of script instructions and images matching audio.
+
+📦 Easy to extend with new sequences and assets via JSON.
